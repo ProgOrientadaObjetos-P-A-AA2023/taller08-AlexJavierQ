@@ -6,8 +6,8 @@ package paquete1;
  */
 public class DocenteFactura extends Docente {
 
-    private double valorFactura = 12;
-    private double valorIvaDescuento;
+    private double valorFactura ;
+    private double valorIvaDescuento= 12;
     private double valorCancelar;
 
 // Establecer
